@@ -1,0 +1,22 @@
+.red-text{ color: red;
+      font-family: DejaVu Sans Mono, sans-serif;
+      font-size: 70px;
+      text-align: center;
+      }
+      
+    .green-text{ color: orange;
+        font-family: OCR A Std, monospace;
+        font-size: 60px;
+      }
+    .grey-text{ color: grey;
+        font-size: 45px;
+        
+      }
+      p {font-size: 35px;
+          background-color: ;
+          
+      }
+      p {}
+      .red-box {font-size: 35px;
+          background-color: red;
+          margin: 20px 5px 20px 5px;}
