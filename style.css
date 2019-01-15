@@ -18,7 +18,8 @@ body, head { backgroung-color : red;
         font-size: 45px;
         
       }
-      p {font-size: 35px;
+      p { text-align: center
+            font-size: 35px;
           background-color: ;
           
       }
