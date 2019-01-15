@@ -21,9 +21,11 @@ body, head { backgroung-color : red;
       p { text-align: center
             font-size: 35px;
           background-color: ;
-          
-      }
-      p {}
+         }
+      a{ text-decoration: underline;
+      color : grey;
+       }
+      a:hover{color: red}
       .red-box {font-size: 35px;
           background-color: red;
           margin: 20px 5px 20px 5px;}
