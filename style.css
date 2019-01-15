@@ -1,3 +1,9 @@
+body, head { backgroung-color : white;
+      margin-left : 250px;
+      margin-right :250px;
+      }
+
+
 .red-text{ color: red;
       font-family: DejaVu Sans Mono, sans-serif;
       font-size: 70px;
