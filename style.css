@@ -13,6 +13,7 @@ body, head { backgroung-color : red;
     .green-text{ color: orange;
         font-family: OCR A Std, monospace;
         font-size: 60px;
+        text-decoration: underline
       }
     .grey-text{ color: grey;
         font-size: 45px;
